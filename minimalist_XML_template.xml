@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType></cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet>
+                        <cdwalite:title></cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator></cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>
+                            <cdwalite:nameCreator></cdwalite:nameCreator>
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator></cdwalite:roleCreator>
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech></cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate></cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate></cdwalite:earliestDate>
+                        <cdwalite:latestDate></cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName></cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata></cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    <vraSection>
+        
+    </vraSection>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:abstract></mods:abstract>
+        </mods:mods>
+    </modsSection>
+    
+    <dcSection>
+        <dc:description></dc:description>
+    </dcSection>
+  
+    
+
+    
+
+    
+</minimalist>
