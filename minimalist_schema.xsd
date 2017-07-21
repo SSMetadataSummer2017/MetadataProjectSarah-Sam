@@ -19,9 +19,9 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="minimal:cdwaLiteSection" minOccurs="0"/>
-                <xs:element ref="minimal:modsSection" minOccurs="0"/>
-                <xs:element ref="minimal:dcSection" minOccurs="0" />
                 <xs:element ref="minimal:vraSection" minOccurs="0" />
+                <xs:element ref="minimal:modsSection" minOccurs="0"/>
+                <xs:element ref="minimal:dcSection" minOccurs="0" />                
             </xs:sequence>
         </xs:complexType>
     </xs:element>
