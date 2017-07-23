@@ -27,14 +27,6 @@
     </xs:element>
     
     
-    <xs:element name="modsSection">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element ref="mods:mods" />
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-    
     <xs:element name="dcSection">
         <xs:complexType>
             <xs:sequence>
