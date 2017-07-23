@@ -93,16 +93,8 @@
             <worktype></worktype>
         </worktypeSet>
     </work>
-   
-</vra>
-        
+</vra>    
     </vraSection>
-    
-    <modsSection>
-        <mods:mods>
-            <mods:abstract></mods:abstract>
-        </mods:mods>
-    </modsSection>
     
     <dcSection>
         <dc:description></dc:description>
