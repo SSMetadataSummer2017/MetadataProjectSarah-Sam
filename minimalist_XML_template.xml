@@ -48,31 +48,6 @@
           <agentSet>
             <display></display>
             <notes/>
-            <agent>
-                <name></name>
-                <culture></culture>
-                <role></role>
-            </agent>
-        </agentSet>
-        <culturalContextSet>
-            <culturalContext></culturalContext>
-        </culturalContextSet>
-        <descriptionSet>
-            <display></display>
-            <description></description>
-        </descriptionSet>
-        <materialSet>
-            <display></display>
-            <notes/>
-            <material></material>
-            <material></material>
-        </materialSet>
-        <measurementsSet>
-            <display></display>
-            <measurements></measurements>
-            <measurements></measurements>
-           <measurements></measurements>
-        </measurementsSet>
         <rightsSet>
             <display></display>
             <rights>
