@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+    
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType>Wooden Sculpture</cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet>
+                        <cdwalite:title>Nine Planks V</cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator>John McCracken American , 1934–2011, Berkeley, California</cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>
+                            <cdwalite:nameCreator>McCracken, John</cdwalite:nameCreator>
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech>Presin, fiberglass, plywood</cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate>1974</cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate>1939</cdwalite:earliestDate>
+                        <cdwalite:latestDate>Present</cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName>Laguna Art Museum (Long Beach,Ca)</cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata>
+                <cdwalite:rightsWork>© Laguna Art Museum</cdwalite:rightsWork>
+            </cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    <vraSection>
+            <agentSet>
+                <display>>McCracken, John (American sculptor and painter, 1934-2011)</display>
+                <notes/>
+                <agent>
+                    <name vocab="ULAN" refid="500115221" type="personal">McCracken, John (American sculptor and painter, 1934-2011)</name>
+                    <dates type="life">
+                        <earliestDate>1939</earliestDate>
+                    </dates>
+                    <culture>American</culture>
+                    <role>sculptor, painter</role>
+                </agent>
+            </agentSet>
+            <culturalContextSet>
+                <culturalContext>American</culturalContext>
+            </culturalContextSet>
+            <dateSet>
+                <display>1960-2011(design)</display>
+                <date type="design">
+                    <earliestDate>1960</earliestDate>
+                    <latestDate>2011</latestDate>
+                </date>
+            </dateSet>
+            <descriptionSet>
+                <display>."Berkeley-born John McCracken was, along with Larry Bell, the Los Angeles representative of the minimalist sculpture movement that swept through the art world in the mid-1960s. McCracken’s geometric constructions were featured in the seminal 1966 exhibit Primary Structures at the Jewish Museum in New York alongside that of Donald Judd, Robert Morris, Carl Andre, and others—the show that is generally considered to have put minimalism on the map. Yet McCracken’s work—translucent colored resins applied in thin, lustrous layers to fiberglass-coated wooden forms—didn’t conform to the tenets of the new movement, and his work came to embody a more complex and non-doctrinaire position in art history.</display>
+                <description> source="="http://lagunaartmuseum.org/john-mccracken/"</description>
+            </descriptionSet>
+            <locationSet>
+                <display>Laguna Art Museum</display>
+                <location type="repository">
+                </location>
+            </locationSet>
+            <materialSet>
+                <display>Polyester resin, fiberglass and plywood</display>
+                <notes/>
+                <material/>
+            </materialSet>
+            <measurementsSet>
+                <display>96 x 19 x 2 1/4 inches</display>
+                <notes/>
+                <measurements type="height" unit="m">96</measurements>
+                <measurements type="width" unit="m">19</measurements>
+            </measurementsSet>
+            <sourceSet>
+                <display>Core 4 Sample Database (VCat)</display>
+                <source>
+                    <name>Core 4 Sample Database (VCat)</name>
+                </source>
+            </sourceSet>
+            <stylePeriodSet>
+                <display>Minimalist; Twentieth century</display>
+                <stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</stylePeriod>
+                <stylePeriod vocab="AAT" refid="300021269">Minimalist</stylePeriod>
+            </stylePeriodSet>
+            <subjectSet>
+                <display>Minimalist art</display>
+                <notes/>
+                <subject>
+                    <term type="personalName" vocab="LCNAF" refid="n 79054933">MacCracken, John</term>
+                </subject>
+            </subjectSet>
+            <techniqueSet>
+                <display>Presin, fiberglass, plywood (technique)</display>
+                <notes/>
+                <technique vocab="AAT" refid="300178684">vaccum coating (technique)</technique>
+            </techniqueSet>
+            <titleSet>
+                <display>Nine Planks V</display>
+                <title type="repository" pref="true" xml:lang="en">Nine Planks V</title>
+            </titleSet>
+            <worktypeSet>
+                <display>scultures (visual works)</display>
+                <worktype vocab="AAT" refid="300033799">sculptures (visual work)</worktype>
+            </worktypeSet>
+        
+        <image id="i_143"
+            href="http://www.core.vraweb.org/examples/html/example047_full.html"
+            refid="143" source="VRA Core Oversight Committee">
+            <measurementsSet>
+                <display></display>
+                <notes/>
+                <measurements/>
+            </measurementsSet>
+            <relationSet>
+                <relation></relation>
+            </relationSet>
+            <rightsSet>
+                <display>©2017 Laguna Art Museum All Rights Reserved</display>
+                <rights/>
+            </rightsSet>
+            <sourceSet>
+                <display>http://lagunaartmuseum.org/john-mccracken-nine-planks-v-1974/</display>
+                <source>
+                    <name/>
+                    <refid></refid>
+                </source>
+            </sourceSet>
+            <titleSet>
+                <display></display>
+                <title type="creator">John McCracken</title>
+            </titleSet>
+            <worktypeSet>
+                <display>sculpture</display>
+                <notes/>
+                <worktype/>
+            </worktypeSet>
+        </image>
+    </vraSection>
+    
+    <dcSection>
+        <dc:description>
+            <dc:title>Nine Planks V</dc:title>
+            <dc:creator>McCracken, John</dc:creator>
+            <dc:subject>Minimalist Art</dc:subject>
+            <dc:description>McCracken’s Nine Planks V undermines our conventional expectation of sculpture. Its surface is at once monochromatic and opaque as well as highly reflective–a result of the artist’s use of resin and fiberglass, which allows for a highly glossy surface in a deep transparent color. He was among a group of young contemporary southern California artists that exploited new materials like polyester resin and fiberglass in the 1960s and 1970s in search of a reduction of both color and form. The surface effects achieved by Southern California custom car painters and surfboard makers provided their inspiration.
+                McCracken typically works in series and Nine Planks V is, as the title suggests, number five in a series of nine planks. Each plank in the series is the same, a highly polished black plinth that is meant to be experienced casually leaning against a wall, or alternatively as one in a series of nine exhibited together. Intensely black, Nine Planks V absorbs its surrounding space, and spits it back out as a reflection, as if it were a magical doorway to another realm. In the process it changes from a dense and tangible object to an intangible object, from a presence to an absence. It becomes a negative hole in space.</dc:description>
+            <dc:date>1974</dc:date>
+            <dc:format>Sculpture</dc:format>
+            <dc:identifier>1984.026</dc:identifier>
+            <dc:coverage>20th century</dc:coverage>
+            <dc:rights>©2017 Laguna Art Museum All Rights Reserved </dc:rights>
+        </dc:description>
+    </dcSection>
+    
+    
+    
+    
+    
+    
+</minimalist>
