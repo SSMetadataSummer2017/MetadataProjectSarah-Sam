@@ -26,7 +26,7 @@
                         <cdwalite:roleCreator>artist</cdwalite:roleCreator>
                     </cdwalite:indexingCreatorSet>
                 </cdwalite:indexingCreatorWrap>
-                <cdwalite:displayMaterialsTech>Presin, fiberglass, plywood</cdwalite:displayMaterialsTech>
+                <cdwalite:displayMaterialsTech>Polyester resin, fiberglass, plywood</cdwalite:displayMaterialsTech>
                 <cdwalite:displayCreationDate>1974</cdwalite:displayCreationDate>
                 <cdwalite:indexingDatesWrap>
                     <cdwalite:indexingDatesSet>
@@ -108,7 +108,7 @@
                 </subject>
             </subjectSet>
             <techniqueSet>
-                <display>Presin, fiberglass, plywood (technique)</display>
+                <display>Polyester resin, fiberglass, plywood (technique)</display>
                 <notes/>
                 <technique vocab="AAT" refid="300178684">vaccum coating (technique)</technique>
             </techniqueSet>
