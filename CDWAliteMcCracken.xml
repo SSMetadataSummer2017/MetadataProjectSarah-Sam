@@ -41,7 +41,7 @@
                 </cdwalite:locationWrap>
             </cdwalite:descriptiveMetadata>
             <cdwalite:administrativeMetadata>
-                <cdwalite:rightsWork>© Laguna Art Museum</cdwalite:rightsWork>
+                <cdwalite:rightsWork>©2017 Laguna Art Museum All Rights Reserved</cdwalite:rightsWork>
             </cdwalite:administrativeMetadata>
         </cdwalite:cdwalite>
     </cdwaLiteSection>
@@ -166,7 +166,7 @@
             <dc:format>Sculpture</dc:format>
             <dc:identifier>1984.026</dc:identifier>
             <dc:coverage>20th century</dc:coverage>
-            <dc:rights>©2017 Laguna Art Museum All Rights Reserved </dc:rights>
+            <dc:rights>©2017 Laguna Art Museum All Rights Reserved</dc:rights>
         </dc:description>
     </dcSection>
     
