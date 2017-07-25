@@ -10,7 +10,6 @@
     
     <xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
     <xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" />
-    <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
     <xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
     <xs:import namespace="http://www.getty.edu/CDWA/CDWALite" schemaLocation="http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd"/>
     <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
@@ -20,7 +19,6 @@
             <xs:sequence>
                 <xs:element ref="minimal:cdwaLiteSection" minOccurs="0"/>
                 <xs:element ref="minimal:vraSection" minOccurs="0" />
-                <xs:element ref="minimal:modsSection" minOccurs="0"/>
                 <xs:element ref="minimal:dcSection" minOccurs="0" />                
             </xs:sequence>
         </xs:complexType>
