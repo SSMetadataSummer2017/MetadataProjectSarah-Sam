@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+    
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType>Sculpture</cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet>
+                        <cdwalite:title>"Unitled (Mirrored cubes)"</cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator>Robert Morris (American artist, born 2/9/1931)</cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>
+                            <cdwalite:nameCreator>Morris, Robert</cdwalite:nameCreator>
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech>Mirrored wooden boxes</cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate>1959-1975</cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate>1959</cdwalite:earliestDate>
+                        <cdwalite:latestDate>1975</cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName>Tate Gallery, London, England, UK</cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata>
+                <cdwalite:rightsWork>Rights for this object are undetermined.</cdwalite:rightsWork>
+            </cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:culturalContextSet>
+                <vra:culturalContext>American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:locationSet>
+                <vra:display>Tate Gallery, London, England, .UK</vra:display>
+                <vra:location type="repository"> </vra:location>
+            </vra:locationSet>
+            <vra:sourceSet>
+                <vra:display>Core 4 Sample Database (VCat)</vra:display>
+                <vra:source>
+                    <vra:name>Core 4 Sample Database (VCat)</vra:name>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:stylePeriodSet>
+                <vra:display>Minimalist; Twentieth century</vra:display>
+                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
+                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
+            </vra:stylePeriodSet>
+            <vra:subjectSet>
+                <vra:display>Minimalist art</vra:display>
+                <vra:notes/>
+                <vra:subject>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Morris, Robert</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            <vra:worktypeSet>
+                <vra:display>sculptures (visual works)</vra:display>
+                <vra:worktype vocab="AAT" refid="300033799">sculptures (visual works)</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </vraSection>
+    
+    <dcSection>
+        <dc:subject>Minimalist Art</dc:subject>
+        <dc:description>Robert Morris, born February 9, 1931, is a prominent American sculptor and performance artist, affiliated with the Minimalist, Post-Minimalist, and performance art movements. Morris started his career as a painter, who dabbled in Abstract Expressionism's Action Painting - founded by Jackson Pollack - but abandoned it because he felt disillusioned with the end result of painting when compared to the actions that went into producing them. So, he turned to other art forms, most notably theater and sculpture. His many Minimalist sculptures force their audiences to approach the work as a medium rather than as a message. Morris's Mirrored Cubes, produced from 1965-1971, have their basis in Morris's experience in the theater, producing stage sets for theater companies. Mirrored Cubes consists of three 3-D sculptures of mirrored cubes, which force the viewer to look at themselves and their environment instead of just looking at the sculpture. The piece invades the gallery, giving the audience an extrasensory perspective to art and its perception.</dc:description>
+        <dc:date>1959-1975</dc:date>
+        <dc:coverage>20th century</dc:coverage>
+        
+    </dcSection>
+    
+    
+</minimalist>
+
