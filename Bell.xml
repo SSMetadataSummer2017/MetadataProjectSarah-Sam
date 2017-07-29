@@ -1,97 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm"
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
-    <work id="w_41" source="Core 4 Sample Database (VCat)" refid="41234.3">
-        <agentSet>
-            <display>>Bell,Larry (American sculptor, born 1939)</display>
-            <notes/>
-            <agent>
-                <name vocab="ULAN" refid="500115221" type="personal">Bell,Larry</name>
-                <dates type="life">
-                    <earliestDate>1939</earliestDate>
-                </dates>
-                <culture>American</culture>
-                <role>sculptor</role>
-            </agent>
-        </agentSet>
-        <culturalContextSet>
-            <culturalContext>American</culturalContext>
-        </culturalContextSet>
-        <dateSet>
-            <display>1957-2011(design)</display>
-            <date type="design">
-                <earliestDate>1957</earliestDate>
-                <latestDate>2011</latestDate>
-            </date>
-        </dateSet>
-        <descriptionSet>
-            <display> Bell uses commercial plating processes to create tinted and reflective glass and continues to be consistent in his construction of geometric glass sculptures and installations</display>
-            <description> source="="http://brooklynrail.org/2016/03/art/alex-bacon-with-larry-bell"</description>
-        </descriptionSet>
-        <locationSet>
-            <display>The Getty Center Structures and Systems: "Minimal Art in the United States"
-                May 1, 2004</display>
-            <location type="repository">
-            </location>
-        </locationSet>
-        <materialSet>
-            <display>Vacuum coated glass and chrome plated metal</display>
-            <notes/>
-            <material/>
-        </materialSet>
-        <measurementsSet>
-            <display>16.5 × 16.5(height)× 16.5 inches(width)</display>
-            <notes/>
-            <measurements type="height" unit="m">16.5</measurements>
-            <measurements type="width" unit="m">16.5</measurements>
-        </measurementsSet>
-        <sourceSet>
-            <display>Core 4 Sample Database (VCat)</display>
-            <source>
-                <name>Core 4 Sample Database (VCat)</name>
-            </source>
-        </sourceSet>
-        <stylePeriodSet>
-            <display>Minimalist; Twentieth century</display>
-            <stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</stylePeriod>
-            <stylePeriod vocab="AAT" refid="300021269">Minimalist</stylePeriod>
-        </stylePeriodSet>
-        <subjectSet>
-            <display>Minimalist art</display>
-            <notes/>
-            <subject>
-                <term type="personalName" vocab="LCNAF" refid="n 79054933">Bell, Larry</term>
-            </subject>
-        </subjectSet>
-        <techniqueSet>
-            <display>vaccum coating (technique)</display>
-            <notes/>
-            <technique vocab="AAT" refid="300178684">vaccum coating (technique)</technique>
-        </techniqueSet>
-        <titleSet>
-            <display>Bette and the Giant Jewfish</display>
-            <title type="repository" pref="true" xml:lang="en">Bette and the Giant Jewfish</title>
-        </titleSet>
-        <worktypeSet>
-            <display>scultures (visual works); Glass sculptures (visual works)</display>
-            <worktype vocab="AAT" refid="300033799">sculptures (visual work)</worktype>
-        </worktypeSet>
-    </work>
-</vra>
-
-<dcSection>
-    <dc:description>
-        <dc:title>Bette and the Giant Jewfish</dc:title>
-        <dc:creator>Bell, Larry</dc:creator>
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+    
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType>Sculpture</cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet>
+                        <cdwalite:title>Bette and the Giant Jewfish</cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator>Larry Bell, American , 1939–Present, Chicago, Illinois</cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>
+                            <cdwalite:nameCreator>Bell, Larry</cdwalite:nameCreator>
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech>Vacuum-coated glass, chrome-plated metal</cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate>1963</cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate>1939</cdwalite:earliestDate>
+                        <cdwalite:latestDate>Present</cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName>Laguna Art Museum (Long Beach,Ca)</cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata>
+                <cdwalite:rightsWork>©2017 Laguna Art Museum All Rights Reserved</cdwalite:rightsWork>
+            </cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:culturalContextSet>
+                <vra:culturalContext>American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:locationSet>
+                <vra:display>Laguna Art Museum</vra:display>
+                <vra:location type="repository"> </vra:location>
+            </vra:locationSet>
+            <vra:measurementsSet>
+                <vra:display>36 x 36 x 36 in.</vra:display>
+                <vra:measurements type="height" unit="m">36</vra:measurements>
+                <vra:measurements type="width" unit="m">36</vra:measurements>
+            </vra:measurementsSet>
+            <vra:sourceSet>
+                <vra:display>Core 4 Sample Database (VCat)</vra:display>
+                <vra:source>
+                    <vra:name>Core 4 Sample Database (VCat)</vra:name>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:stylePeriodSet>
+                <vra:display>Minimalist; Twentieth century</vra:display>
+                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
+                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
+            </vra:stylePeriodSet>
+            <vra:subjectSet>
+                <vra:display>Minimalist art</vra:display>
+                <vra:notes/>
+                <vra:subject>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Bell, Larry</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            <vra:worktypeSet>
+                <vra:display>sculptures (visual works)</vra:display>
+                <vra:worktype vocab="AAT" refid="300033799">sculptures (visual work)</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </vraSection>
+    
+    <dcSection>
         <dc:subject>Minimalist Art</dc:subject>
-        <dc:description>Bell uses commercial plating processes to create tinted and reflective glass and continues to be consistent in his construction of geometric glass sculptures and installation</dc:description>
-        <dc:date>1957-2011</dc:date>
-        <dc:format>Sculpture</dc:format>
-        <dc:identifier>?</dc:identifier>
+        <dc:description>CUBES
+            Larry Bell became interested in glass in the early 1960s. As a medium, it had three properties that interested: it could transmit, absorb and reflect light, and with specific treatment, it could do all three at the same time. He found the cube to be an ideal form with which to investigate the phenomena of light on surface. The first cubes were made using household mirrors from which he would scratch away parts of the reflective material. Later he discovered a plating process that would make the glass reflective on both sides. With the early cubes, he incorporated geometric imagery, including the ellipse, adding visual complexity and depth to the simple forms. Eventually he eliminated the imagery. With a technology that deposited exquisitely thin films of various metallic and non-metallic substances to the glass. The resulting visual spectrum of colors is in fact light reflected in different wavelengths off the surface of the glass. Bell has continued to revisit the cubes throughout his career.</dc:description>
+        <dc:date>1963</dc:date>
+        <dc:identifier>2014.1.090</dc:identifier>
         <dc:coverage>20th century</dc:coverage>
-        <dc:rights>This Rights Statement is intended for use with an Item that has been identified as in copyright but for which no rights-holder(s) has been identified or located after some reasonable investigation. URI: http://rightsstatements.org/vocab/InC-RUU/1.0/</dc:rights>
-    </dc:description>
-</dcSection>
+        
+    </dcSection>
+    
+    
+    
+    
+    
+    
 </minimalist>
 
