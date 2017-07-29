@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+    
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType>Painting</cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet>
+                        <cdwalite:title>"Die Fahn Hoch!" ("Raise High the Flag!")</cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator>Frank Stella (American artist, born 1936)</cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>
+                            <cdwalite:nameCreator>Stella, Frank.</cdwalite:nameCreator>
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech>enamel on canvas</cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate>1959</cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate>1959</cdwalite:earliestDate>
+                        <cdwalite:latestDate>2015</cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName>Whitney Museum of American Art (New York City, New York, United States)</cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata>
+                <cdwalite:rightsWork>Unknown</cdwalite:rightsWork>
+            </cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    <vraSection>
+        <vra:work>
+            <vra:culturalContextSet>
+                <vra:culturalContext>American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:locationSet>
+                <vra:display>Whitney Museum of American Art (New York City, New York, United States)</vra:display>
+                <vra:location type="repository"> 
+               </vra:location>
+            </vra:locationSet>
+            <vra:measurementsSet>
+                <vra:display>121 5/8 in.x 72 13/16 in.(308.9 cm.x 184.9 cm.)</vra:display>
+                <vra:measurements type="height" unit="m">121 5/8 in.(308.9cm.)</vra:measurements>
+                <vra:measurements type="width" unit="m">72 13/16 in.(184.9cm.)</vra:measurements>
+            </vra:measurementsSet>
+            <vra:sourceSet>
+                <vra:display>Core 4 Sample Database (VCat)</vra:display>
+                <vra:source>
+                    <vra:name>Core 4 Sample Database (VCat)</vra:name>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:stylePeriodSet>
+                <vra:display>Minimalist; Twentieth century</vra:display>
+                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
+                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
+            </vra:stylePeriodSet>
+            <vra:subjectSet>
+                <vra:display>Minimalist art</vra:display>
+                <vra:notes/>
+                <vra:subject>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Stella, Frank</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            <vra:worktypeSet>
+                <vra:display>painting (visual works)</vra:display>
+                <vra:worktype vocab="AAT" refid="300033799">paintings (visual work)</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </vraSection>
+    
+    <dcSection>
+        <dc:subject>Minimalist Art</dc:subject>
+        <dc:description>Frank Stella (born 1936) is an American artist best affiliated with the Minimalist art movement, which arose to counteract the popularity of Abstract Expressionism in the 1950s-1970s. Stella's earliest exhibition took place in New York City - where he had moved in 1958 - and featured this piece, one of his earliest. He still lives and works in New York. Frank Stella is a Minimalist painter working in sculpture and painting. His Die Fahn Hoch! literally translates to "Raise High the Flag!" which was a German Nazi salute during World War II. Some critics think this to be a jab at Jasper Johns' American Flag paintings, which baffled the public but pleased critics. The painting consists of a black square painted on challes which almost simultaneously compels and repels viewers. It's a painting with a nearly sculptural and statuesque quality - a mockery of both Abstract Expressionists and other Modernist artists and critics, who thought that artistic mediums should stay pure and true to form.</dc:description>
+        <dc:date>1959-2015</dc:date>
+        <dc:identifier>75.22</dc:identifier>
+        <dc:coverage>20th century</dc:coverage>
+        
+    </dcSection>
+    
+</minimalist>
+
