@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work id="w_41" source="Core 4 Sample Database (VCat)" refid="41234.3">
+        <agentSet>
+            <display>>Bell,Larry (American sculptor, born 1939)</display>
+            <notes/>
+            <agent>
+                <name vocab="ULAN" refid="500115221" type="personal">Bell,Larry</name>
+                <dates type="life">
+                    <earliestDate>1939</earliestDate>
+                </dates>
+                <culture>American</culture>
+                <role>sculptor</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext>American</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>1957-2011(design)</display>
+            <date type="design">
+                <earliestDate>1957</earliestDate>
+                <latestDate>2011</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display> Bell uses commercial plating processes to create tinted and reflective glass and continues to be consistent in his construction of geometric glass sculptures and installations</display>
+            <description> source="="http://brooklynrail.org/2016/03/art/alex-bacon-with-larry-bell"</description>
+        </descriptionSet>
+        <locationSet>
+            <display>The Getty Center Structures and Systems: "Minimal Art in the United States"
+                May 1, 2004</display>
+            <location type="repository">
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>Vacuum coated glass and chrome plated metal</display>
+            <notes/>
+            <material/>
+        </materialSet>
+        <measurementsSet>
+            <display>16.5 × 16.5(height)× 16.5 inches(width)</display>
+            <notes/>
+            <measurements type="height" unit="m">16.5</measurements>
+            <measurements type="width" unit="m">16.5</measurements>
+        </measurementsSet>
+        <sourceSet>
+            <display>Core 4 Sample Database (VCat)</display>
+            <source>
+                <name>Core 4 Sample Database (VCat)</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display>Minimalist; Twentieth century</display>
+            <stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300021269">Minimalist</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display>Minimalist art</display>
+            <notes/>
+            <subject>
+                <term type="personalName" vocab="LCNAF" refid="n 79054933">Bell, Larry</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>vaccum coating (technique)</display>
+            <notes/>
+            <technique vocab="AAT" refid="300178684">vaccum coating (technique)</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>Bette and the Giant Jewfish</display>
+            <title type="repository" pref="true" xml:lang="en">Bette and the Giant Jewfish</title>
+        </titleSet>
+        <worktypeSet>
+            <display>scultures (visual works); Glass sculptures (visual works)</display>
+            <worktype vocab="AAT" refid="300033799">sculptures (visual work)</worktype>
+        </worktypeSet>
+    </work>
+</vra>
+
+<dcSection>
+    <dc:description>
+        <dc:title>Bette and the Giant Jewfish</dc:title>
+        <dc:creator>Bell, Larry</dc:creator>
+        <dc:subject>Minimalist Art</dc:subject>
+        <dc:description>Bell uses commercial plating processes to create tinted and reflective glass and continues to be consistent in his construction of geometric glass sculptures and installation</dc:description>
+        <dc:date>1957-2011</dc:date>
+        <dc:format>Sculpture</dc:format>
+        <dc:identifier>?</dc:identifier>
+        <dc:coverage>20th century</dc:coverage>
+        <dc:rights>This Rights Statement is intended for use with an Item that has been identified as in copyright but for which no rights-holder(s) has been identified or located after some reasonable investigation. URI: http://rightsstatements.org/vocab/InC-RUU/1.0/</dc:rights>
+    </dc:description>
+</dcSection>
+</minimalist>
+
