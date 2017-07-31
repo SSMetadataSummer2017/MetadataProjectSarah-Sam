@@ -84,6 +84,38 @@
                 <vra:worktype vocab="AAT" refid="300033799">Pasted labels and ink on paper (visual works)</vra:worktype>
             </vra:worktypeSet>
         </vra:work>
+        <image id="i_143"
+        href="http://www.core.vraweb.org/examples/html/example047_full.html"
+        refid="143" source="VRA Core Oversight Committee">
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation></relation>
+        </relationSet>
+        <rightsSet>
+            <display>© 2017 Yayoi Kusama</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962</display>
+            <source>
+                <name/>
+                <refid></refid>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display></display>
+            <title type="creator">Yayoi Kusama</title>
+        </titleSet>
+        <worktypeSet>
+            <display>Pasted labels and ink on paper</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
     </vraSection>
     
     <dcSection>
