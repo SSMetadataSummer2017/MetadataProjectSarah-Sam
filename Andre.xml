@@ -46,19 +46,51 @@
         </cdwalite:cdwalite>
     </cdwaLiteSection>
     
+  
     <vraSection>
         <vra:work>
+            <vra:agentSet>
+                <vra:display>Andre,Carl (American, born 1935)</vra:display>
+                <vra:notes/>
+                <vra:agent>
+                    <vra:name vocab="ULAN" refid="500115221" type="personal">Andre, Carl</vra:name>
+                    <vra:dates type="life">
+                        <vra:earliestDate>1935</vra:earliestDate>
+                    </vra:dates>
+                    <vra:culture>American</vra:culture>
+                    <vra:role>sculptor</vra:role>
+                </vra:agent>
+            </vra:agentSet>
             <vra:culturalContextSet>
                 <vra:culturalContext>American</vra:culturalContext>
             </vra:culturalContextSet>
+            <vra:dateSet>
+                <vra:display>1950-1980(design)</vra:display>
+                <vra:date type="design">
+                    <vra:earliestDate>1950</vra:earliestDate>
+                    <vra:latestDate>1980</vra:latestDate>
+                </vra:date>
+            </vra:dateSet>
+            <vra:descriptionSet>
+                <vra:display>"Carl Andre (born 1935) is an American Conceptual artist known for his Minimalist sculptures and installations."</vra:display>
+                <vra:description> source="http://www.getty.edu/vow/ULANFullDisplay?find=Carl+Andre"</vra:description>
+            </vra:descriptionSet>
             <vra:locationSet>
-                <vra:display>Tate</vra:display>
-                <vra:location type="repository"> </vra:location>
+                <vra:display>Detroit Institute of Fine Arts</vra:display>
+                <vra:location type="repository"> 
+                </vra:location>
             </vra:locationSet>
+            <vra:materialSet>
+                <vra:display>Galvanized steel, copper</vra:display>
+                <vra:notes/>
+                <vra:material/>
+            </vra:materialSet>
             <vra:measurementsSet>
                 <vra:display>36 units: 1.0 x 30.5 x 30.5 cm each; 1.0 x 183.5 x 183.5 cm overall installed</vra:display>
-                <vra:measurements type="height" unit="m">1.0</vra:measurements>
-                <vra:measurements type="width" unit="m">30.5</vra:measurements>
+                <vra:notes/>
+                <vra:measurements type="height" unit="m">1.0cm.</vra:measurements>
+                <vra:measurements type="width" unit="m">183.5cm.</vra:measurements>
+                <vra:measurements type="length"unit="m">183.5cm.</vra:measurements>
             </vra:measurementsSet>
             <vra:sourceSet>
                 <vra:display>Core 4 Sample Database (VCat)</vra:display>
@@ -78,11 +110,51 @@
                     <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Andre, Carl</vra:term>
                 </vra:subject>
             </vra:subjectSet>
+            <vra:techniqueSet>
+                <vra:display>metalwork, visual works(technique)</vra:display>
+                <vra:notes/>
+                <vra:technique vocab="AAT" refid="300178684">metalwork, visual works(technique)</vra:technique>
+            </vra:techniqueSet>
+            <vra:titleSet>
+                <vra:display>"Steel Zinc Plain"</vra:display>
+                <vra:title type="repository" pref="true" xml:lang="en">"Steel Zinc Plain"</vra:title>
+            </vra:titleSet>
             <vra:worktypeSet>
-                <vra:display>sculptures (visual works);Steel sculptures (visual works)</vra:display>
+                <vra:display>sculptures (visual works); Copper sculptures (visual works)</vra:display>
                 <vra:worktype vocab="AAT" refid="300033799">sculptures (visual work)</vra:worktype>
             </vra:worktypeSet>
         </vra:work>
+        <vra:image id="i_143" href="http://www.core.vraweb.org/examples/html/example047_full.html"
+            refid="143" source="VRA Core Oversight Committee">
+            <vra:measurementsSet>
+                <vra:display/>
+                <vra:notes/>
+                <vra:measurements/>
+            </vra:measurementsSet>
+            <vra:relationSet>
+                <vra:relation/>
+            </vra:relationSet>
+            <vra:rightsSet>
+                <vra:display>Rights belong to Carl Andre. Licensed by Viscopy, Sydney</vra:display>
+                <vra:rights/>
+            </vra:rightsSet>
+            <vra:sourceSet>
+                <vra:display>https://www.artgallery.nsw.gov.au/collection/works/L2011.56/</vra:display>
+                <vra:source>
+                    <vra:name/>
+                    <vra:refid/>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:titleSet>
+                <vra:display/>
+                <vra:title type="creator">Carl Andre</vra:title>
+            </vra:titleSet>
+            <vra:worktypeSet>
+                <vra:display>sculpture</vra:display>
+                <vra:notes/>
+                <vra:worktype/>
+            </vra:worktypeSet>
+        </vra:image>
     </vraSection>
     
     <dcSection>
