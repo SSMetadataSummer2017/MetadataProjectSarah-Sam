@@ -87,8 +87,8 @@
         href="http://www.core.vraweb.org/examples/html/example047_full.html"
         refid="143" source="VRA Core Oversight Committee">
         <vra:measurementsSet>
-            <vra:display></vra:display>
-            <vra:notes></vra:notes>
+            <display/>
+            <vra:notes/>
             <measurements/>
         </measurementsSet>
         <relationSet>
