@@ -71,23 +71,25 @@
                 </vra:date>
             </vra:dateSet>
             <vra:descriptionSet>
-                <vra:display></vra:display>
-                <vra:description></vra:description>
+                <vra:display>"Bell uses commercial plating processes to create tinted and reflective glass and continues to be consistent in his construction of geometric glass sculptures and installations."</vra:display>
+                <vra:description>source="="http://brooklynrail.org/2016/03/art/alex-bacon-with-larry-bell"</vra:description>
             </vra:descriptionSet>
             <vra:locationSet>
-                <vra:display>Laguna Art Museum</vra:display>
+                <vra:display>The Getty Center Structures and Systems: "Minimal Art in the United States"
+                May 1, 2004</vra:display>
                 <vra:location type="repository"> </vra:location>
             </vra:locationSet>
             <vra:materialSet>
-                <vra:display>Polyester resin, fiberglass and plywood</vra:display>
+                <vra:display>Vacuum coated glass and chrome plated metal</vra:display>
                 <vra:notes/>
                 <vra:material/>
             </vra:materialSet>
             <vra:measurementsSet>
-                <vra:display>96 x 19 x 2 1/4 inches</vra:display>
+                <vra:display>16.5 × 16.5× 16.5 inches</vra:display>
                 <vra:notes/>
-                <vra:measurements type="height" unit="m">96</vra:measurements>
-                <vra:measurements type="width" unit="m">19</vra:measurements>
+                <vra:measurements type="height" unit="m">16.5"</vra:measurements>
+                <vra:measurements type="width" unit="m">16.5"</vra:measurements>
+                <vra:measurements type="length"unit="m">16.5"</vra:measurements>
             </vra:measurementsSet>
             <vra:sourceSet>
                 <vra:display>Core 4 Sample Database (VCat)</vra:display>
@@ -104,20 +106,20 @@
                 <vra:display>Minimalist art</vra:display>
                 <vra:notes/>
                 <vra:subject>
-                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">MacCracken, John</vra:term>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Napoleon I, Emperor of the French, 1769-1821</vra:term>
                 </vra:subject>
             </vra:subjectSet>
             <vra:techniqueSet>
-                <vra:display>Polyester resin, fiberglass, plywood (technique)</vra:display>
+                <vra:display>vaccum coating (technique)</vra:display>
                 <vra:notes/>
-                <vra:technique vocab="AAT" refid="300178684">vaccum coating (technique)</vra:technique>
+                <vra:technique vocab="AAT" refid="300178684">oil painting (technique)</vra:technique>
             </vra:techniqueSet>
             <vra:titleSet>
-                <vra:display>Nine Planks V</vra:display>
-                <vra:title type="repository" pref="true" xml:lang="en">Nine Planks V</vra:title>
+                <vra:display>"Bette and the Giant Jewfish"</vra:display>
+                <vra:title type="repository" pref="true" xml:lang="en">"Bette and the Giant Jewfish"</vra:title>
             </vra:titleSet>
             <vra:worktypeSet>
-                <vra:display>scultures (visual works)</vra:display>
+                <vra:display>sculptures (visual works); Glass sculptures (visual works)</vra:display>
                 <vra:worktype vocab="AAT" refid="300033799">sculptures (visual work)</vra:worktype>
             </vra:worktypeSet>
         </vra:work>
@@ -132,11 +134,12 @@
                 <vra:relation/>
             </vra:relationSet>
             <vra:rightsSet>
-                <vra:display>©2017 Laguna Art Museum All Rights Reserved</vra:display>
+                <vra:display>This Rights Statement is intended for use with an Item that has been identified as in copyright but for which no rights-holder(s) has been identified or located after some reasonable investigation. This Rights Statement should only be used if the data provider is reasonably sure that the work is in copyright. This Rights Statement is not intended for use by EU-based data providers who have identified works as Orphan Works in accordance with the EU Orphan Works Directive (they must use InC-OW-EU instead).
+                URI: http://rightsstatements.org/vocab/InC-RUU/1.0/</vra:display>
                 <vra:rights/>
             </vra:rightsSet>
             <vra:sourceSet>
-                <vra:display>http://lagunaartmuseum.org/john-mccracken-nine-planks-v-1974/</vra:display>
+                <vra:display>https://www.getty.edu/research/exhibitions_events/events/minimalism/index.html</vra:display>
                 <vra:source>
                     <vra:name/>
                     <vra:refid/>
@@ -144,10 +147,10 @@
             </vra:sourceSet>
             <vra:titleSet>
                 <vra:display/>
-                <vra:title type="creator">John McCracken</vra:title>
+                <vra:title type="creator">Larry Bell</vra:title>
             </vra:titleSet>
             <vra:worktypeSet>
-                <vra:display>sculpture</vra:display>
+                <vra:display>glass sculpture</vra:display>
                 <vra:notes/>
                 <vra:worktype/>
             </vra:worktypeSet>
