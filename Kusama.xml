@@ -46,7 +46,116 @@
         </cdwalite:cdwalite>
     </cdwaLiteSection>
     
-   
+     <vraSection>
+        <vra:work>
+            <vra:agentSet>
+                <vra:display>>Kusama, Yayoi (Japanese painter, performance, and installation artist, born 1929)</vra:display>
+                <vra:notes/>
+                <vra:agent>
+                    <vra:name vocab="ULAN" refid="500115221" type="personal">Kusama, Yayoi</vra:name>
+                    <vra:dates type="life">
+                        <vra:earliestDate>1929</vra:earliestDate>
+                    </vra:dates>
+                    <vra:culture>Japanese</vra:culture>
+                    <vra:culture>American</vra:culture>
+                    <vra:role>sculptor</vra:role>
+                </vra:agent>
+            </vra:agentSet>
+            <vra:culturalContextSet>
+                <vra:culturalContext>Japanese</vra:culturalContext>
+                <vra:culturalContext>American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:dateSet>
+                <vra:display>1960-2017(design)</vra:display>
+                <vra:date type="design">
+                    <vra:earliestDate>1960</vra:earliestDate>
+                    <vra:latestDate>2017</vra:latestDate>
+                </vra:date>
+            </vra:dateSet>
+            <vra:descriptionSet>
+                <vra:display>"When she was a girl, Yayoi Kusama had hallucinations of flowers, dots, and nets—“the same pattern covering the ceiling, the windows, and the walls, and finally all over the room, my body, and the universe.” She has said that her use of repeated forms, in this case store-bought labels and stickers, grows out of her struggle with these hallucinations caused by mental illness."</vra:display>
+                <vra:description> source="https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962"</vra:description>
+            </vra:descriptionSet>
+            <vra:locationSet>
+                <vra:display>Detroit Institute of Fine Arts</vra:display>
+                <vra:location type="repository"> 
+                </vra:location>
+            </vra:locationSet>
+            <vra:materialSet>
+                <vra:display>Pasted labels and ink on paper</vra:display>
+                <vra:notes/>
+                <vra:material/>
+            </vra:materialSet>
+            <vra:measurementsSet>
+                <vra:display>23 3/4" x 29"</vra:display>
+                <vra:notes/>
+                <vra:measurements type="height" unit="m">23 3/4"</vra:measurements>
+                <vra:measurements type="width" unit="m">29"</vra:measurements>
+            </vra:measurementsSet>
+            <vra:sourceSet>
+                <vra:display>Core 4 Sample Database (VCat)</vra:display>
+                <vra:source>
+                    <vra:name>Core 4 Sample Database (VCat)</vra:name>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:stylePeriodSet>
+                <vra:display>Minimalist; Twentieth century</vra:display>
+                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
+                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
+            </vra:stylePeriodSet>
+            <vra:subjectSet>
+                <vra:display>Minimalist art</vra:display>
+                <vra:notes/>
+                <vra:subject>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Kusama, Yayoi</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            <vra:techniqueSet>
+                <vra:display>collage, ink on paper (technique)</vra:display>
+                <vra:notes/>
+                <vra:technique vocab="AAT" refid="300178684">collage, ink on paper (technique)</vra:technique>
+            </vra:techniqueSet>
+            <vra:titleSet>
+                <vra:display>Accumulation of Stamps, 63</vra:display>
+                <vra:title type="repository" pref="true" xml:lang="en">Accumulation of Stamps, 63</vra:title>
+            </vra:titleSet>
+            <vra:worktypeSet>
+                <vra:display>Pasted labels and ink on paper (visual works);Pasted labels and ink on paper (visual works)</vra:display>
+                <vra:worktype vocab="AAT" refid="300033799">collage (visual work)</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+        <vra:image id="i_143" href="http://www.core.vraweb.org/examples/html/example047_full.html"
+            refid="143" source="VRA Core Oversight Committee">
+            <vra:measurementsSet>
+                <vra:display/>
+                <vra:notes/>
+                <vra:measurements/>
+            </vra:measurementsSet>
+            <vra:relationSet>
+                <vra:relation/>
+            </vra:relationSet>
+            <vra:rightsSet>
+                <vra:display>© 2017 Yayoi Kusama</vra:display>
+                <vra:rights/>
+            </vra:rightsSet>
+            <vra:sourceSet>
+                <vra:display>https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962</vra:display>
+                <vra:source>
+                    <vra:name/>
+                    <vra:refid/>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:titleSet>
+                <vra:display/>
+                <vra:title type="creator">Yayoi Kusama</vra:title>
+            </vra:titleSet>
+            <vra:worktypeSet>
+                <vra:display>Pasted labels and ink on paper</vra:display>
+                <vra:notes/>
+                <vra:worktype/>
+            </vra:worktypeSet>
+        </vra:image>
+    </vraSection>
     
     <dcSection>
         <dc:subject>Minimalist Art</dc:subject>
