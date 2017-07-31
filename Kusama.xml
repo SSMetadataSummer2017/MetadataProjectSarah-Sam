@@ -46,77 +46,7 @@
         </cdwalite:cdwalite>
     </cdwaLiteSection>
     
-    <vraSection>
-        <vra:work>
-            <vra:culturalContextSet>
-                <vra:culturalContext>Japanese</vra:culturalContext>
-            </vra:culturalContextSet>
-            <vra:locationSet>
-                <vra:display>Detroit Institute of the Arts</vra:display>
-                <vra:location type="repository"> 
-              </vra:location>
-            </vra:locationSet>
-            <vra:measurementsSet>
-                <vra:display>23 3/4 x 29" (60.3 x 73.6 cm)</vra:display>
-                <vra:measurements type="height" unit="m">23 3/4"</vra:measurements>
-                <vra:measurements type="width" unit="m">29"</vra:measurements>
-            </vra:measurementsSet>
-            <vra:sourceSet>
-                <vra:display>Core 4 Sample Database (VCat)</vra:display>
-                <vra:source>
-                    <vra:name>Core 4 Sample Database (VCat)</vra:name>
-                </vra:source>
-            </vra:sourceSet>
-            <vra:stylePeriodSet>
-                <vra:display>Minimalist; Twentieth century</vra:display>
-                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
-                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
-            </vra:stylePeriodSet>
-            <vra:subjectSet>
-                <vra:display>Minimalist art</vra:display>
-                <vra:notes/>
-                <vra:subject>
-                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Andre, Carl</vra:term>
-                </vra:subject>
-            </vra:subjectSet>
-            <vra:worktypeSet>
-                <vra:display>collage, ink on paper (technique)</vra:display>
-                <vra:worktype vocab="AAT" refid="300033799">Pasted labels and ink on paper (visual works)</vra:worktype>
-            </vra:worktypeSet>
-        </vra:work>
-        <image id="i_143"
-        href="http://www.core.vraweb.org/examples/html/example047_full.html"
-        refid="143" source="VRA Core Oversight Committee">
-        <measurementsSet>
-            <display></display>
-            <notes/>
-            <measurements/>
-        </measurementsSet>
-        <relationSet>
-            <relation></relation>
-        </relationSet>
-        <rightsSet>
-            <display>© 2017 Yayoi Kusama</display>
-            <rights/>
-        </rightsSet>
-        <sourceSet>
-            <display>https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962</display>
-            <source>
-                <name/>
-                <refid></refid>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <display></display>
-            <title type="creator">Yayoi Kusama</title>
-        </titleSet>
-        <worktypeSet>
-            <display>Pasted labels and ink on paper</display>
-            <notes/>
-            <worktype/>
-        </worktypeSet>
-    </image>
-    </vraSection>
+   
     
     <dcSection>
         <dc:subject>Minimalist Art</dc:subject>
