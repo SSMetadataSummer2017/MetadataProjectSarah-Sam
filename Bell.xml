@@ -46,19 +46,48 @@
         </cdwalite:cdwalite>
     </cdwaLiteSection>
     
-    <vraSection>
+   <vraSection>
         <vra:work>
+            <vra:agentSet>
+                <vra:display>>Bell, Larry (American sculptor, born 1939)</vra:display>
+                <vra:notes/>
+                <vra:agent>
+                    <vra:name vocab="ULAN" refid="500115221" type="personal">Bell,Larry</vra:name>
+                    <vra:dates type="life">
+                        <vra:earliestDate>1939</vra:earliestDate>
+                    </vra:dates>
+                    <vra:culture>American</vra:culture>
+                    <vra:role>sculptor</vra:role>
+                </vra:agent>
+            </vra:agentSet>
             <vra:culturalContextSet>
                 <vra:culturalContext>American</vra:culturalContext>
             </vra:culturalContextSet>
+            <vra:dateSet>
+                <vra:display>1957-2011(design)</vra:display>
+                <vra:date type="design">
+                    <vra:earliestDate>1957</vra:earliestDate>
+                    <vra:latestDate>2011</vra:latestDate>
+                </vra:date>
+            </vra:dateSet>
+            <vra:descriptionSet>
+                <vra:display></vra:display>
+                <vra:description></vra:description>
+            </vra:descriptionSet>
             <vra:locationSet>
                 <vra:display>Laguna Art Museum</vra:display>
                 <vra:location type="repository"> </vra:location>
             </vra:locationSet>
+            <vra:materialSet>
+                <vra:display>Polyester resin, fiberglass and plywood</vra:display>
+                <vra:notes/>
+                <vra:material/>
+            </vra:materialSet>
             <vra:measurementsSet>
-                <vra:display>36 x 36 x 36 in.</vra:display>
-                <vra:measurements type="height" unit="m">36</vra:measurements>
-                <vra:measurements type="width" unit="m">36</vra:measurements>
+                <vra:display>96 x 19 x 2 1/4 inches</vra:display>
+                <vra:notes/>
+                <vra:measurements type="height" unit="m">96</vra:measurements>
+                <vra:measurements type="width" unit="m">19</vra:measurements>
             </vra:measurementsSet>
             <vra:sourceSet>
                 <vra:display>Core 4 Sample Database (VCat)</vra:display>
@@ -75,47 +104,54 @@
                 <vra:display>Minimalist art</vra:display>
                 <vra:notes/>
                 <vra:subject>
-                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Bell, Larry</vra:term>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">MacCracken, John</vra:term>
                 </vra:subject>
             </vra:subjectSet>
+            <vra:techniqueSet>
+                <vra:display>Polyester resin, fiberglass, plywood (technique)</vra:display>
+                <vra:notes/>
+                <vra:technique vocab="AAT" refid="300178684">vaccum coating (technique)</vra:technique>
+            </vra:techniqueSet>
+            <vra:titleSet>
+                <vra:display>Nine Planks V</vra:display>
+                <vra:title type="repository" pref="true" xml:lang="en">Nine Planks V</vra:title>
+            </vra:titleSet>
             <vra:worktypeSet>
-                <vra:display>sculptures (visual works)</vra:display>
+                <vra:display>scultures (visual works)</vra:display>
                 <vra:worktype vocab="AAT" refid="300033799">sculptures (visual work)</vra:worktype>
             </vra:worktypeSet>
         </vra:work>
-      <vra:image id="i_143"
-        href="http://www.core.vraweb.org/examples/html/example047_full.html"
-        refid="143" source="VRA Core Oversight Committee">
-        <vra:measurementsSet>
-            <display/>
-            <vra:notes/>
-            <measurements/>
-        </measurementsSet>
-        <relationSet>
-            <relation></relation>
-        </relationSet>
-        <rightsSet>
-            <display>This Rights Statement is intended for use with an Item that has been identified as in copyright but for which no rights-holder(s) has been identified or located after some reasonable investigation. This Rights Statement should only be used if the data provider is reasonably sure that the work is in copyright. This Rights Statement is not intended for use by EU-based data providers who have identified works as Orphan Works in accordance with the EU Orphan Works Directive (they must use InC-OW-EU instead).
-                URI: http://rightsstatements.org/vocab/InC-RUU/1.0/</display>
-            <rights/>
-        </rightsSet>
-        <sourceSet>
-            <display>https://www.getty.edu/research/exhibitions_events/events/minimalism/index.html</display>
-            <source>
-                <name/>
-                <refid></refid>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <display></display>
-            <title type="creator">Larry Bell</title>
-        </titleSet>
-        <worktypeSet>
-            <display>glass sculpture</display>
-            <notes/>
-            <worktype/>
-        </worktypeSet>
-    </image>
+        <vra:image id="i_143" href="http://www.core.vraweb.org/examples/html/example047_full.html"
+            refid="143" source="VRA Core Oversight Committee">
+            <vra:measurementsSet>
+                <vra:display/>
+                <vra:notes/>
+                <vra:measurements/>
+            </vra:measurementsSet>
+            <vra:relationSet>
+                <vra:relation/>
+            </vra:relationSet>
+            <vra:rightsSet>
+                <vra:display>©2017 Laguna Art Museum All Rights Reserved</vra:display>
+                <vra:rights/>
+            </vra:rightsSet>
+            <vra:sourceSet>
+                <vra:display>http://lagunaartmuseum.org/john-mccracken-nine-planks-v-1974/</vra:display>
+                <vra:source>
+                    <vra:name/>
+                    <vra:refid/>
+                </vra:source>
+            </vra:sourceSet>
+            <vra:titleSet>
+                <vra:display/>
+                <vra:title type="creator">John McCracken</vra:title>
+            </vra:titleSet>
+            <vra:worktypeSet>
+                <vra:display>sculpture</vra:display>
+                <vra:notes/>
+                <vra:worktype/>
+            </vra:worktypeSet>
+        </vra:image>
     </vraSection>
     
     <dcSection>
