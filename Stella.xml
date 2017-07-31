@@ -84,7 +84,49 @@
                 <vra:worktype vocab="AAT" refid="300033799">paintings (visual work)</vra:worktype>
             </vra:worktypeSet>
         </vra:work>
-    </vraSection>
+     <image id="i_147" href="http://www.core.vraweb.org/examples/html/example052_full.html"
+        refid="147" source="VRA Core Oversight Committee, Core 4 Sample Records">
+    </image>
+    <dateSet>
+        <display>1999 (creation)</display>
+        <notes/>
+        <date/>
+    </dateSet>
+    <measurementsSet>
+        <display>95px x 95px</display>
+        <notes/>
+        <measurements/>
+    </measurementsSet>
+    <relationSet>
+        <relation type="imageOf" refid="46" source="Core 4 Sample Database (VCat)"/>
+    </relationSet>
+    <rightsSet>
+        <display>undetermined</display>
+        <rights/>
+    </rightsSet>
+    <sourceSet>
+        <display>The Art Story: Modern Art Insights; Whitney Museum of American Art; www.theartstory.org/movement-minimalism-artworks.htm#pnt_2; collections.whitney.org/object/2964</display>
+        <source>
+            <name/>
+            <refid type="URI">www.theartstory.org/movement-minimalism-artworks.htm#pnt_2; collections.whitney.org/object/2964</refid>
+        </source>
+    </sourceSet>
+    <techniqueSet>
+        <display>digital imaging</display>
+        <notes/>
+        <technique/>
+    </techniqueSet>
+    <titleSet>
+        <display>"Frank Stella's 'Die Fahn Hoch!' (1959)"</display>
+        <title type="generalView">"Frank Stella's 'Die Fahn Hoch!' (1959)"</title>
+    </titleSet>
+    <worktypeSet>
+        <display>digital image (photograph)</display>
+        <notes/>
+        <worktype/>
+    </worktypeSet>
+    <rightsSet>Whitney Museum of American Art; collections.whitney.org/object/2964</rightsSet>
+   </vraSection>
     
     <dcSection>
         <dc:subject>Minimalist Art</dc:subject>
