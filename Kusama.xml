@@ -36,7 +36,7 @@
                 </cdwalite:indexingDatesWrap>
                 <cdwalite:locationWrap>
                     <cdwalite:locationSet>
-                        <cdwalite:locationName>Detroit Institute of Fine Arts</cdwalite:locationName>
+                        <cdwalite:locationName>The Museum of Modern Art</cdwalite:locationName>
                     </cdwalite:locationSet>
                 </cdwalite:locationWrap>
             </cdwalite:descriptiveMetadata>
@@ -48,19 +48,6 @@
     
      <vraSection>
         <vra:work>
-            <vra:agentSet>
-                <vra:display>>Kusama, Yayoi (Japanese painter, performance, and installation artist, born 1929)</vra:display>
-                <vra:notes/>
-                <vra:agent>
-                    <vra:name vocab="ULAN" refid="500115221" type="personal">Kusama, Yayoi</vra:name>
-                    <vra:dates type="life">
-                        <vra:earliestDate>1929</vra:earliestDate>
-                    </vra:dates>
-                    <vra:culture>Japanese</vra:culture>
-                    <vra:culture>American</vra:culture>
-                    <vra:role>sculptor</vra:role>
-                </vra:agent>
-            </vra:agentSet>
             <vra:culturalContextSet>
                 <vra:culturalContext>Japanese</vra:culturalContext>
                 <vra:culturalContext>American</vra:culturalContext>
@@ -137,18 +124,7 @@
             <vra:rightsSet>
                 <vra:display>© 2017 Yayoi Kusama</vra:display>
                 <vra:rights/>
-            </vra:rightsSet>
-            <vra:sourceSet>
-                <vra:display>https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962</vra:display>
-                <vra:source>
-                    <vra:name/>
-                    <vra:refid/>
-                </vra:source>
-            </vra:sourceSet>
-            <vra:titleSet>
-                <vra:display/>
-                <vra:title type="creator">Yayoi Kusama</vra:title>
-            </vra:titleSet>
+            </vra:rightsSet
             <vra:worktypeSet>
                 <vra:display>Pasted labels and ink on paper</vra:display>
                 <vra:notes/>
