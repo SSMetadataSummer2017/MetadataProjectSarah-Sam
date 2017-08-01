@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Accumulation of Stamps, 63</dc:title>
+<dc:creator>Yayoi Kusama</dc:creator>
+<dc:subject>Minimalist; Twentieth century</dc:subject>
+<dc:description>"When she was a girl, Yayoi Kusama had hallucinations of flowers, dots, and nets—“the same pattern covering the ceiling, the windows, and the walls, and finally all over the room, my body, and the universe.” She has said that her use of repeated forms, in this case store-bought labels and stickers, grows out of her struggle with these hallucinations caused by mental illness."</dc:description>
+<dc:publisher>Detroit Institute of Arts</dc:publisher>
+<dc:contributor>Yayoi Kusama</dc:contributor>
+<dc:date>1960</dc:date>
+<dc:type>collage (visual work)</dc:type>
+<dc:format>23 3/4" x 29"</dc:format>
+<dc:identifier>"510.1970"</dc:identifier>
+<dc:source>https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962"</dc:source>
+<dc:language>"en-US"</dc:language>
+<dc:relation>https://www.moma.org/learn/moma_learning/yayoi-kusama-accumulation-of-stamps-63-1962</dc:relation>
+<dc:coverage>1960-2017</dc:coverage>
+<dc:rights>© 2017 Yayoi Kusama</dc:rights>
+
+</metadata>
