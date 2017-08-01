@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+    
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType>black-and-white film</cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet>
+                        <cdwalite:title>Railroad Turnbridge</cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator>Richard Serra, American, 1934–Present, Quincy, Massachusetts</cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>
+                            <cdwalite:nameCreator>Serra, Richard</cdwalite:nameCreator>
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech>16mm B&amp;W film</cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate>1976</cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate>1938</cdwalite:earliestDate>
+                        <cdwalite:latestDate>Present</cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName>The Museum of Modern Art (New York City, New York)</cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata>
+                <cdwalite:rightsWork>©2017 The Museum of Modern Art</cdwalite:rightsWork>
+            </cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    
+    <vraSection>
+        <vra:work>
+            <vra:culturalContextSet>
+                <vra:culturalContext>American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:locationSet>
+                <vra:display>The Museum of Modern Art</vra:display>
+                <vra:location type="repository"> 
+                </vra:location>
+            </vra:locationSet>
+            <vra:measurementsSet>
+                <vra:display>3 minutes</vra:display>
+                <vra:notes/>
+                <vra:measurements type="seconds" unit="m">180 seconds</vra:measurements>
+            </vra:measurementsSet>
+            <vra:stylePeriodSet>
+                <vra:display>Minimalist; Twentieth century</vra:display>
+                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
+                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
+            </vra:stylePeriodSet>
+            <vra:subjectSet>
+                <vra:display>Minimalist art</vra:display>
+                <vra:notes/>
+                <vra:subject>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">Serra, Richard</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+    
+    <dcSection>
+        <dc:description>Serra has made a number of films concerning the manufacture and use of his favorite material, steel. Railroad Turnbridge (1976) is a series of shots taken on the Burlington and Northern bridge over the Willamette River near Portland, Oregon, as it opens to let a ship pass.</dc:description>
+        <dc:date>1976</dc:date>
+        <dc:identifier>9846</dc:identifier>
+        <dc:coverage>20th century</dc:coverage>
+        
+    </dcSection>
+    
+</minimalist>
+
+
+
+
+
