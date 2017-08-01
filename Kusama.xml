@@ -14,7 +14,7 @@
                 </cdwalite:objectWorkTypeWrap>
                 <cdwalite:titleWrap>
                     <cdwalite:titleSet>
-                        <cdwalite:title>Accumulation of Stamps, 63</cdwalite:title>
+                        <cdwalite:title>"Accumulation of Stamps, 63"</cdwalite:title>
                     </cdwalite:titleSet>
                 </cdwalite:titleWrap>
                 <cdwalite:displayCreator>Kusama, Yayoi (Japanese-American painter, performance, and installation artist, born 1929)</cdwalite:displayCreator>
@@ -36,7 +36,7 @@
                 </cdwalite:indexingDatesWrap>
                 <cdwalite:locationWrap>
                     <cdwalite:locationSet>
-                        <cdwalite:locationName>Detroit Institute of Arts</cdwalite:locationName>
+                        <cdwalite:locationName>Detroit Institute of Fine Arts</cdwalite:locationName>
                     </cdwalite:locationSet>
                 </cdwalite:locationWrap>
             </cdwalite:descriptiveMetadata>
@@ -116,8 +116,8 @@
                 <vra:technique vocab="AAT" refid="300178684">collage, ink on paper (technique)</vra:technique>
             </vra:techniqueSet>
             <vra:titleSet>
-                <vra:display>Accumulation of Stamps, 63</vra:display>
-                <vra:title type="repository" pref="true" xml:lang="en">Accumulation of Stamps, 63</vra:title>
+                <vra:display>"Accumulation of Stamps, 63"</vra:display>
+                <vra:title type="repository" pref="true" xml:lang="en">"Accumulation of Stamps, 63"</vra:title>
             </vra:titleSet>
             <vra:worktypeSet>
                 <vra:display>Pasted labels and ink on paper (visual works);Pasted labels and ink on paper (visual works)</vra:display>
