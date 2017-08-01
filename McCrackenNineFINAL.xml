@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minimalist xmlns="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xsi:schemaLocation="https://github.com/SSMetadataSummer2017/MetadataProjectSarah-Sam https://raw.githubusercontent.com/SSMetadataSummer2017/MetadataProjectSarah-Sam/master/minimalist_schema.xsd">
+    
+    <cdwaLiteSection>
+        <cdwalite:cdwalite>
+            <cdwalite:descriptiveMetadata>
+                <cdwalite:objectWorkTypeWrap>
+                    <cdwalite:objectWorkType>Sculpture</cdwalite:objectWorkType>
+                </cdwalite:objectWorkTypeWrap>
+                <cdwalite:titleWrap>
+                    <cdwalite:titleSet> 
+                        <cdwalite:title>"Nine Planks V"</cdwalite:title>
+                    </cdwalite:titleSet>
+                </cdwalite:titleWrap>
+                <cdwalite:displayCreator>John McCracken (American , 1934–2011, Berkeley, California)</cdwalite:displayCreator>
+                <cdwalite:indexingCreatorWrap>
+                    <cdwalite:indexingCreatorSet>
+                        <cdwalite:nameCreatorSet>   
+                            <cdwalite:nameCreator>McCracken, John</cdwalite:nameCreator>                 
+                        </cdwalite:nameCreatorSet>
+                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>  
+                    </cdwalite:indexingCreatorSet>
+                </cdwalite:indexingCreatorWrap>
+                <cdwalite:displayMaterialsTech>Polyester resin, fiberglass, plywood</cdwalite:displayMaterialsTech>
+                <cdwalite:displayCreationDate>1974</cdwalite:displayCreationDate>
+                <cdwalite:indexingDatesWrap>
+                    <cdwalite:indexingDatesSet>
+                        <cdwalite:earliestDate>1939</cdwalite:earliestDate>
+                        <cdwalite:latestDate>Present</cdwalite:latestDate>
+                    </cdwalite:indexingDatesSet>
+                </cdwalite:indexingDatesWrap>
+                <cdwalite:locationWrap>
+                    <cdwalite:locationSet>
+                        <cdwalite:locationName>Laguna Art Museum (Long Beach,Ca)</cdwalite:locationName>
+                    </cdwalite:locationSet>
+                </cdwalite:locationWrap>
+            </cdwalite:descriptiveMetadata>
+            <cdwalite:administrativeMetadata>
+                <cdwalite:rightsWork>©2017 Laguna Art Museum All Rights Reserved</cdwalite:rightsWork>
+            </cdwalite:administrativeMetadata>
+        </cdwalite:cdwalite>
+    </cdwaLiteSection>
+    
+    
+    <vraSection>
+        <vra:work>
+            <vra:culturalContextSet>
+                <vra:culturalContext>American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:locationSet>
+                <vra:display>Laguna Art Museum</vra:display>
+                <vra:location type="repository"> </vra:location>
+            </vra:locationSet>
+            <vra:measurementsSet>
+                <vra:display>96 x 19 x 2 1/4 inches</vra:display>
+                <vra:notes/>
+                <vra:measurements type="height" unit="m">96</vra:measurements>
+                <vra:measurements type="width" unit="m">19</vra:measurements>
+            </vra:measurementsSet>
+            <vra:stylePeriodSet>
+                <vra:display>Minimalist; Twentieth century</vra:display>
+                <vra:stylePeriod vocab="LCSAF" refid="sh 85091984">Twentieth century</vra:stylePeriod>
+                <vra:stylePeriod vocab="AAT" refid="300021269">Minimalist</vra:stylePeriod>
+            </vra:stylePeriodSet>
+            <vra:subjectSet>
+                <vra:display>Minimalist art</vra:display>
+                <vra:notes/>
+                <vra:subject>
+                    <vra:term type="personalName" vocab="LCNAF" refid="n 79054933">MacCracken, John</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </vraSection>
+    
+    <dcSection>
+        <dc:description>McCracken’s Nine Planks V undermines our conventional expectation of
+            sculpture. Its surface is at once monochromatic and opaque as well as highly
+            reflective–a result of the artist’s use of resin and fiberglass, which allows for a
+            highly glossy surface in a deep transparent color. He was among a group of young
+            contemporary southern California artists that exploited new materials like polyester
+            resin and fiberglass in the 1960s and 1970s in search of a reduction of both color and
+            form. The surface effects achieved by Southern California custom car painters and
+            surfboard makers provided their inspiration. McCracken typically works in series and  
+            Nine Planks V is, as the title suggests, number five in a series of nine planks. Each
+            plank in the series is the same, a highly polished black plinth that is meant to be
+            experienced casually leaning against a wall, or alternatively as one in a series of nine
+            exhibited together. Intensely black, Nine Planks V absorbs its surrounding space, and
+            spits it back out as a reflection, as if it were a magical doorway to another realm. In
+            the process it changes from a dense and tangible object to an intangible object, from a
+            presence to an absence. It becomes a negative hole in space.</dc:description>
+        <dc:date>1974</dc:date>
+        <dc:identifier>1984.026</dc:identifier>
+        <dc:coverage>20th century</dc:coverage>
+    </dcSection>
+    
+</minimalist>
+
+
+
+
+
+
