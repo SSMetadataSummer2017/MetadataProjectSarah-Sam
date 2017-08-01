@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>"Die Fahn Hoch!" ("Raise High the Flag!")</dc:title>
+<dc:creator>Frank Stella</dc:creator>
+<dc:subject>Minimalist art</dc:subject>
+<dc:description>Frank Stella (born 1936) is an American artist best affiliated with the Minimalist art movement, which arose to counteract the popularity of Abstract Expressionism in the 1950s-1970s. Stella's earliest exhibition took place in New York City - where he had moved in 1958 - and featured this piece, one of his earliest. He still lives and works in New York. Frank Stella is a Minimalist painter working in sculpture and painting. His Die Fahn Hoch! literally translates to "Raise High the Flag!" which was a German Nazi salute during World War II. Some critics think this to be a jab at Jasper Johns' American Flag paintings, which baffled the public but pleased critics. The painting consists of a black square painted on challes which almost simultaneously compels and repels viewers. It's a painting with a nearly sculptural and statuesque quality - a mockery of both Abstract Expressionists and other Modernist artists and critics, who thought that artistic mediums should stay pure and true to form.</dc:description>
+<dc:publisher>Whitney Museum of American Art</dc:publisher>
+<dc:contributor>Frank Stella</dc:contributor>
+<dc:date>1959</dc:date>
+<dc:type>painting </dc:type>
+<dc:format>digital image</dc:format>
+<dc:identifier>75.22</dc:identifier>
+<dc:source>www.theartstory.org/movement-minimalism-artworks.htm#pnt_2</dc:source>
+<dc:language>en-US</dc:language>
+<dc:coverage>1959-2015</dc:coverage>
+<dc:rights>The rights for this object are undetermined.</dc:rights>
+
+</metadata>
