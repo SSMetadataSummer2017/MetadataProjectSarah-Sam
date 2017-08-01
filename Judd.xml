@@ -10,11 +10,11 @@
         <cdwalite:cdwalite>
             <cdwalite:descriptiveMetadata>
                 <cdwalite:objectWorkTypeWrap>
-                    <cdwalite:objectWorkType>Painting</cdwalite:objectWorkType>
+                    <cdwalite:objectWorkType>Sculpture</cdwalite:objectWorkType>
                 </cdwalite:objectWorkTypeWrap>
                 <cdwalite:titleWrap>
                     <cdwalite:titleSet>
-                        <cdwalite:title>Untitled</cdwalite:title>
+                        <cdwalite:title>"Untitled"</cdwalite:title>
                     </cdwalite:titleSet>
                 </cdwalite:titleWrap>
                 <cdwalite:displayCreator>Judd, Donald</cdwalite:displayCreator>
@@ -23,10 +23,10 @@
                         <cdwalite:nameCreatorSet>
                             <cdwalite:nameCreator>Judd, Donald</cdwalite:nameCreator>
                         </cdwalite:nameCreatorSet>
-                        <cdwalite:roleCreator>artist</cdwalite:roleCreator>
+                        <cdwalite:roleCreator>artist, sculptor</cdwalite:roleCreator>
                     </cdwalite:indexingCreatorSet>
                 </cdwalite:indexingCreatorWrap>
-                <cdwalite:displayMaterialsTech>brass and flourescent coloured Plexiglass</cdwalite:displayMaterialsTech>
+                <cdwalite:displayMaterialsTech>Brass and flourescent coloured Plexiglass</cdwalite:displayMaterialsTech>
                 <cdwalite:displayCreationDate>1959-1994</cdwalite:displayCreationDate>
                 <cdwalite:indexingDatesWrap>
                     <cdwalite:indexingDatesSet>
@@ -49,7 +49,7 @@
     <vraSection>
         <vra:work>
             <vra:agentSet>
-                <vra:display>>Judd, Donald (American, born 6/3/1928)</vra:display>
+                <vra:display>>Judd, Donald (American, born 6/3/1928-2/12/1994)</vra:display>
                 <vra:notes/>
                 <vra:agent>
                     <vra:name vocab="ULAN" refid="500115221" type="personal">Judd, Donald</vra:name>
